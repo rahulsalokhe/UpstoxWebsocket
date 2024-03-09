@@ -11,7 +11,7 @@ namespace UpstoxWebsocket;
 internal class Program
 {
 
-    public static string AccessToken = "ACCESS_TOKEN";
+    public static string AccessToken = "ACCESS_TOKEN_";
     public static string MessageSend = "";
     static void Main(string[] args)
     {
